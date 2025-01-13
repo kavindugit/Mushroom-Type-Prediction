@@ -5,4 +5,3 @@ This notebook demonstrates the use of machine learning algorithms to predict mus
 - Decision Tree Classifier
 - Gradient Boosting Classifier
 
-You can explore the full analysis in the [Mushroom Type Prediction Notebook](./Mushroom_Type_Prediction.ipynb).
